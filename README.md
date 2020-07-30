@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Nick 👋
+I'm a technology lawyer, cybersecurity connoisseur, and IT geek.
 
-<!--
-**nexxius/nexxius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+Some of the projects I'm currently working on:
+- Home automation with Home Assistant running in Docker on a Raspberry Pi 4.
+- Data Monitoring and visualization using Grafana and InfluxDB in Docker on a Raspberry Pi 4.
+- Creating scripts to quickly deploy virtual machines with customized environemnts.
+- Setting up, maintaining, using, and improving my Home Lab, which is running:
+  - custom-built pfsense box;
+  - Raspberry Pi 4 as an always-on server;
+  - Raspberry Pi 3B+ as a fail-over server;
+  - Synology DS920+;
+  - custom-built Proxmox server;
+  - custom-built gaming desktop computer; and
+  - a variety of IoT Devices.
