@@ -2,10 +2,12 @@
 I'm a technology lawyer, cybersecurity connoisseur, and IT geek.
 
 ## Background and Experience :mortar_board:
-My professional work primarily focuses on drafting and negotiating commercial technology contracts, such as software licenses, SaaS agreements, or software development agreements. Cybersecurity underpins both my professional experience and my personal projects and I have obtained the CompTIA Security+ and CompTIA CySA+ certifications. I'm currently working towards Server+ and PenTest+. 
+My professional work primarily focuses on drafting and negotiating commercial technology contracts, such as software licenses, SaaS agreements, and software development agreements. I'm particularly interested in open source software licensing. 
+
+Cybersecurity underpins both my professional experience and my personal projects. I have obtained the CompTIA Security+ and CompTIA CySA+ certifications. I'm currently working towards Server+ and PenTest+. 
 
 ## Current Projects :computer:
-Some of the projects I'm currently working on:
+Some of the projects I'm currently working on include:
 - Home automation with Home Assistant running in Docker on a Raspberry Pi 4.
 - Data Monitoring and visualization using Grafana and InfluxDB in Docker on a Raspberry Pi 4.
 - Creating scripts to quickly deploy virtual machines.
