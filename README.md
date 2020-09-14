@@ -19,3 +19,7 @@ Some of the projects I'm currently working on include:
   - a custom-built Proxmox server;
   - a custom-built gaming desktop computer; and
   - a variety of IoT Devices, mobile devices, and laptops.
+
+----
+
+![Hack the Box](http://www.hackthebox.eu/badge/image/100995)
