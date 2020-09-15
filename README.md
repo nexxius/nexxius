@@ -22,4 +22,4 @@ Some of the projects I'm currently working on include:
 
 ----
 
-[ ![Hack the Box](http://www.hackthebox.eu/badge/image/100995)](https://www.hackthebox.eu/home/users/profile/100995)
+[ ![Hack the Box](http://www.hackthebox.eu/badge/image/100995)](https://www.hackthebox.eu/profile/100995)
